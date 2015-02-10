@@ -1,3 +1,14 @@
-## Yo, I'm a Readme
+# JS-Constructors Exercise
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+This was an exercise assigned to introduce the constructor function for building objects in JavaScript.
+
+##How to use it
+*	Clone my repo
+*	Run npm install
+*	Run bower install
+
+##Libraries Used:
+*	JavaScript
+
+##Author: 
+[Spencer Wyckoff]

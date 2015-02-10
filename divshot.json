@@ -1,5 +1,5 @@
 {
-  "name": "srw-constructors-practice",
+  "name": "srw-constructor-exercises",
   "root": "dist",
   "clean_urls": true,
   "error_page": "error.html"
